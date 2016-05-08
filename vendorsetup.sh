@@ -14,6 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_flounder_lte-userdebug
-add_lunch_combo cm_flounder_lte-userdebug
+add_lunch_combo broken_flounder_lte-userdebug
 

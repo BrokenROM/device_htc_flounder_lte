@@ -1,0 +1,23 @@
+[
+  {
+    "repository": "device_htc_flounder",
+    "target_path": "device/htc/flounder"
+  },
+  {
+    "repository": "gchild320/flounder",
+    "target_path": "kernel/htc/flounder",
+    "branch":      "m"
+  },
+   {
+    "remote":      "github",
+    "repository":  "CyanogenMod/android_packages_apps_Snap",
+    "target_path": "packages/apps/Snap",
+    "branch":      "cm-13.0"
+  },
+  {
+   "remote": "github",
+   "repository": "TheMuppets/proprietary_vendor_htc",
+   "target_path": "vendor/htc",
+   "branch": "cm-13.0"
+  }
+]
