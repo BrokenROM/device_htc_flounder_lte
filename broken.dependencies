@@ -2,6 +2,7 @@
   {
     "repository": "device_htc_flounder",
     "target_path": "device/htc/flounder"
+    "branch":	   "m6.0.1"
   },
   {
     "repository": "gchild320/flounder",
