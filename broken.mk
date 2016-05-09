@@ -9,8 +9,7 @@ PRODUCT_PACKAGES += \
 	Snap
 
 # Inherit some common broken shit.
-$(call inherit-product, vendor/broken/config/common_full_tablet_wifionly.mk)
-$(call inherit-product, vendor/broken/config/telephony.mk)
+$(call inherit-product, vendor/broken/config/common_full_tablet_lte.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
