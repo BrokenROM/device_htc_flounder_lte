@@ -12,7 +12,7 @@ PRODUCT_PACKAGES += \
 $(call inherit-product, vendor/broken/config/common_full_tablet_lte.mk)
 
 # Enhanced NFC
-$(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
+$(call inherit-product, vendor/broken/config/nfc_enhanced.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/htc/flounder/aosp_flounder64.mk)
